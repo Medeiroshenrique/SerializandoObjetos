@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8zvj1dr41gAZ3V3dS/DdLRHVRxOxwiwB1lEQ0Ej76RyJvzuHSxy+NQw+UwVgG3d5iqdVammVazwDK9a+ekLWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olegk\\source\\repos\\Serializando\\Serializando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olegk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

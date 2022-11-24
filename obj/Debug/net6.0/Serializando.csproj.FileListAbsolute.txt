@@ -1,0 +1,17 @@
+C:\Users\olegk\source\repos\Serializando\bin\Debug\net6.0\Serializando.exe
+C:\Users\olegk\source\repos\Serializando\bin\Debug\net6.0\Serializando.deps.json
+C:\Users\olegk\source\repos\Serializando\bin\Debug\net6.0\Serializando.runtimeconfig.json
+C:\Users\olegk\source\repos\Serializando\bin\Debug\net6.0\Serializando.dll
+C:\Users\olegk\source\repos\Serializando\bin\Debug\net6.0\Serializando.pdb
+C:\Users\olegk\source\repos\Serializando\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.csproj.AssemblyReference.cache
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.AssemblyInfoInputs.cache
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.AssemblyInfo.cs
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.csproj.CoreCompileInputs.cache
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.csproj.CopyComplete
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.dll
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\refint\Serializando.dll
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.pdb
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\Serializando.genruntimeconfig.cache
+C:\Users\olegk\source\repos\Serializando\obj\Debug\net6.0\ref\Serializando.dll

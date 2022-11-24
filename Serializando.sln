@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializando", "Serializando.csproj", "{3E3FFC68-D71F-45A7-A716-2C63740F87BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E3FFC68-D71F-45A7-A716-2C63740F87BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3FFC68-D71F-45A7-A716-2C63740F87BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3FFC68-D71F-45A7-A716-2C63740F87BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3FFC68-D71F-45A7-A716-2C63740F87BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD780F1C-329A-45FB-8907-BAB368A2D22B}
+	EndGlobalSection
+EndGlobal
